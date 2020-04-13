@@ -1,0 +1,3 @@
+2020-04-12 21:53:00 ERROR TestMain:14 - NullPointerExceptionnull%java.lang.NullPointerException
+	at TestMain.goTest(TestMain.java:20)
+	at TestMain.main(TestMain.java:12)
